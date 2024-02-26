@@ -1,0 +1,26 @@
+*{margin: 25px;}
+body{
+    font-family: tahoma;
+    background-color: darkseagreen;
+}
+h1{
+    padding: 10px;
+    border: 15px;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: rgb(204, 92, 80);
+    color: teal;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p{
+    background-color: cadetblue;
+    color: darkslategray;
+    text-align: justify;
+    text-decoration: dotted;
+}
+img{
+    width: 40%;
+}
